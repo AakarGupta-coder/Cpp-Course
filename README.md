@@ -28,8 +28,8 @@ These projects are intended for educational purposes and reflect incremental upd
 ## How to Run
 
 1. Clone the repository locally:
-   ```bash
-   git clone https://github.com/aakargupta-coder/cpp-projects.git
+```bash
+git clone https://github.com/aakargupta-coder/cpp-projects.git
 ```
 2. Navigate to the desired project directory:
 ```bash
@@ -47,6 +47,6 @@ g++ -o [output-file] [source-file].cpp
 ```
 
 ## Contributions
-This repository serves as a personal project archive and learning reference. However, contributions, issue reports, and suggestions for improvements are highly encouraged. Feel free to fork the repository, submit pull requests, or open issues to contribute to the growth and refinement of the codebase.
-**Owner:** Aakar Gupta ([@aakargupta-coder](https://github.com/aakargupta-coder))
-**Contact:** +91 81780 16304 or ak10.aakar@gmail.com
+This repository serves as a personal project archive and learning reference. However, contributions, issue reports, and suggestions for improvements are highly encouraged. Feel free to fork the repository, submit pull requests, or open issues to contribute to the growth and refinement of the codebase.<br/>
+**Owner:** Aakar Gupta ([@aakargupta-coder](https://github.com/aakargupta-coder))<br/>
+**Contact:** +91 81780 16304 (or) ak10.aakar@gmail.com
